@@ -1,6 +1,6 @@
 # React + Vite
 آدرس سایت 👇 👇 👇 👇 
-[here](https://amiralisite.github.io/amirfood/)
+https://amiralisite.github.io/amirfood/
 با vpn وارد بشید 💫
 با سلام به همه دوستان با پروژه ی جدید اومدم فست فود که ۳ روز براش زمان گذاشتم
 خوشحال میشم ببینید و نظراتتون رو بگید😍😍😍
